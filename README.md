@@ -54,9 +54,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![Alt text](<Screenshot (7).png>)
+![Screenshot (7)](https://github.com/user-attachments/assets/484b38b3-ab55-453e-8c6a-27a583b9fb42)
 
-![alt text](<Screenshot (8).png>)
+
+![Screenshot (8)](https://github.com/user-attachments/assets/bfe2419f-b551-410c-a025-69edf3364af6)
+
 
 
 ## RESULT:
