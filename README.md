@@ -1,8 +1,8 @@
 # EX01 Developing a Simple Webserver
-## Date:28/10/2024
 
+## Date:28/10/2024
 ## AIM:
-To develop a simple webserver to serve html pages and display the configuration details of laptop.
+To develop a simple webserver to serve html pages.
 
 ## DESIGN STEPS:
 ### Step 1: 
@@ -22,8 +22,7 @@ Testing the webserver.
 
 ## PROGRAM:
 ```
-from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,9 +52,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+
 ![alt text](<Screenshot (7).png>)
 
 ![alt text](<Screenshot (8).png>)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
